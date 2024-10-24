@@ -166,6 +166,14 @@ Endpoint: /api/reports/generate${query} //query can be either CSV or PDF
 
 Description: Generates a PDF/CSV according to user choice report containing metrics from leads and campaigns.  
 
+CSV Format:
+![image](https://github.com/user-attachments/assets/a16decb2-c7f3-44c7-bd21-e7eb37ea6b03)
+
+PDF Format:
+![image](https://github.com/user-attachments/assets/55849467-56b1-4582-ac16-1393a0f229de)
+
+
+
 ## 5.Notification Endpoints  
  Send Alert Email:
 Sends an alert email if specific conditions are met (e.g., low conversion rate).  
@@ -178,6 +186,8 @@ Example: A low conversion rate alert would trigger an email:
 Subject: Low Conversion Rate Alert
 The current conversion rate is 1.95%, which is below the threshold of 2%.  
 
+Example of Mail:
+![WhatsApp Image 2024-10-25 at 04 40 45_9c264742](https://github.com/user-attachments/assets/7a19cf98-bf35-4549-9220-b927d248e719)
 
 
 
