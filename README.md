@@ -3,13 +3,6 @@
 EzyMetrics Backend API provides seamless data integrations, ETL (Extract, Transform, Load) processes, reporting capabilities, and notification services. It integrates with CRM and marketing platforms, processes lead and campaign data, and generates actionable reports for the EzyMetrics platform.
 
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
 ## Table of Content
 
 1. Installation
@@ -196,4 +189,3 @@ Common errors include:
 400 Bad Request – Invalid input data.  
 404 Not Found – Lead or campaign not found.  
 500 Internal Server Error – A server-side issue occurred.  
- 
