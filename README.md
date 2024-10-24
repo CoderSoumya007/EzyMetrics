@@ -166,11 +166,11 @@ Endpoint: /api/reports/generate${query} //query can be either CSV or PDF
 
 Description: Generates a PDF/CSV according to user choice report containing metrics from leads and campaigns.  
 
-CSV Format:
-![image](https://github.com/user-attachments/assets/a16decb2-c7f3-44c7-bd21-e7eb37ea6b03)
+CSV Format:  
+![image](https://github.com/user-attachments/assets/a16decb2-c7f3-44c7-bd21-e7eb37ea6b03)  
 
-PDF Format:
-![image](https://github.com/user-attachments/assets/55849467-56b1-4582-ac16-1393a0f229de)
+PDF Format:  
+![image](https://github.com/user-attachments/assets/55849467-56b1-4582-ac16-1393a0f229de)  
 
 
 
